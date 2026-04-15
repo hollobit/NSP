@@ -1,0 +1,1953 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-15T04:09:17+00:00",
+  "anchor": "T01",
+  "method": "weight = count × log10(1 + budget_mil_krw)",
+  "tech_ids": [
+    "T01",
+    "T02",
+    "T03",
+    "T04",
+    "T05",
+    "T06",
+    "T07",
+    "T08",
+    "T09",
+    "T10",
+    "T11",
+    "T12",
+    "T13",
+    "T14",
+    "T15",
+    "T16",
+    "T17",
+    "T18"
+  ],
+  "ai_edges": [
+    {
+      "source": "T01",
+      "target": "T09",
+      "count": 6,
+      "budget_mil_krw": 36081,
+      "weight": 27.344,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p18-s2",
+        "P-A05-p66-s3",
+        "P-A05-p68-s2",
+        "P-A05-p87-s1",
+        "P-A12-p160-s2"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T02",
+      "count": 6,
+      "budget_mil_krw": 29005,
+      "weight": 26.775,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p13-s1",
+        "P-A01-p21-s1",
+        "P-A01-p25-s2",
+        "P-A05-p66-s3",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T06",
+      "count": 5,
+      "budget_mil_krw": 43644,
+      "weight": 23.2,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p18-s2",
+        "P-A01-p21-s1",
+        "P-A05-p83-s2",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T03",
+      "count": 5,
+      "budget_mil_krw": 34747,
+      "weight": 22.705,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p18-s2",
+        "P-A05-p87-s1",
+        "P-A11-p144-s3",
+        "P-A15-p182-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T04",
+      "count": 4,
+      "budget_mil_krw": 25880,
+      "weight": 17.652,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p13-s1",
+        "P-A01-p21-s1",
+        "P-A01-p25-s2"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T07",
+      "count": 4,
+      "budget_mil_krw": 23047,
+      "weight": 17.451,
+      "project_ids": [
+        "P-A01-p18-s2",
+        "P-A05-p68-s2",
+        "P-A05-p87-s1",
+        "P-A15-p182-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T11",
+      "count": 4,
+      "budget_mil_krw": 21069,
+      "weight": 17.295,
+      "project_ids": [
+        "P-A01-p18-s2",
+        "P-A05-p66-s3",
+        "P-A05-p78-s2",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T16",
+      "count": 4,
+      "budget_mil_krw": 8538,
+      "weight": 15.726,
+      "project_ids": [
+        "P-A05-p66-s3",
+        "P-A05-p68-s2",
+        "P-A05-p87-s1",
+        "P-A15-p182-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T12",
+      "count": 3,
+      "budget_mil_krw": 29531,
+      "weight": 13.411,
+      "project_ids": [
+        "P-A01-p18-s2",
+        "P-A05-p83-s2",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T10",
+      "count": 3,
+      "budget_mil_krw": 18754,
+      "weight": 12.819,
+      "project_ids": [
+        "P-A01-p18-s2",
+        "P-A05-p78-s2",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T15",
+      "count": 3,
+      "budget_mil_krw": 10530,
+      "weight": 12.067,
+      "project_ids": [
+        "P-A01-p13-s1",
+        "P-A01-p23-s1",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T08",
+      "count": 2,
+      "budget_mil_krw": 4273,
+      "weight": 7.262,
+      "project_ids": [
+        "P-A05-p68-s2",
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T13",
+      "count": 2,
+      "budget_mil_krw": 966,
+      "weight": 5.971,
+      "project_ids": [
+        "P-A05-p87-s1",
+        "P-A12-p160-s2"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T17",
+      "count": 1,
+      "budget_mil_krw": 1600,
+      "weight": 3.204,
+      "project_ids": [
+        "P-A01-p21-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T18",
+      "count": 1,
+      "budget_mil_krw": 1200,
+      "weight": 3.08,
+      "project_ids": [
+        "P-A03-p42-s2"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T05",
+      "count": 1,
+      "budget_mil_krw": 810,
+      "weight": 2.909,
+      "project_ids": [
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "source": "T01",
+      "target": "T14",
+      "count": 1,
+      "budget_mil_krw": 810,
+      "weight": 2.909,
+      "project_ids": [
+        "P-A05-p87-s1"
+      ]
+    }
+  ],
+  "matrix": [
+    {
+      "tech_id": "T01",
+      "cells": [
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 6,
+          "budget": 29005,
+          "weight": 26.775
+        },
+        {
+          "count": 5,
+          "budget": 34747,
+          "weight": 22.705
+        },
+        {
+          "count": 4,
+          "budget": 25880,
+          "weight": 17.652
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 5,
+          "budget": 43644,
+          "weight": 23.2
+        },
+        {
+          "count": 4,
+          "budget": 23047,
+          "weight": 17.451
+        },
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": 6,
+          "budget": 36081,
+          "weight": 27.344
+        },
+        {
+          "count": 3,
+          "budget": 18754,
+          "weight": 12.819
+        },
+        {
+          "count": 4,
+          "budget": 21069,
+          "weight": 17.295
+        },
+        {
+          "count": 3,
+          "budget": 29531,
+          "weight": 13.411
+        },
+        {
+          "count": 2,
+          "budget": 966,
+          "weight": 5.971
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 10530,
+          "weight": 12.067
+        },
+        {
+          "count": 4,
+          "budget": 8538,
+          "weight": 15.726
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 1,
+          "budget": 1200,
+          "weight": 3.08
+        }
+      ]
+    },
+    {
+      "tech_id": "T02",
+      "cells": [
+        {
+          "count": 6,
+          "budget": 29005,
+          "weight": 26.775
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 2,
+          "budget": 13323,
+          "weight": 8.249
+        },
+        {
+          "count": 5,
+          "budget": 105502,
+          "weight": 25.116
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 4,
+          "budget": 94545,
+          "weight": 19.903
+        },
+        {
+          "count": 2,
+          "budget": 2531,
+          "weight": 6.807
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 15638,
+          "weight": 12.583
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 5855,
+          "weight": 11.303
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 8580,
+          "weight": 7.867
+        },
+        {
+          "count": 3,
+          "budget": 82747,
+          "weight": 14.753
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T03",
+      "cells": [
+        {
+          "count": 5,
+          "budget": 34747,
+          "weight": 22.705
+        },
+        {
+          "count": 2,
+          "budget": 13323,
+          "weight": 8.249
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 1,
+          "budget": 12513,
+          "weight": 4.097
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 4,
+          "budget": 35220,
+          "weight": 18.187
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 19152,
+          "weight": 12.847
+        },
+        {
+          "count": 2,
+          "budget": 2760,
+          "weight": 6.882
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T04",
+      "cells": [
+        {
+          "count": 4,
+          "budget": 25880,
+          "weight": 17.652
+        },
+        {
+          "count": 5,
+          "budget": 105502,
+          "weight": 25.116
+        },
+        {
+          "count": 1,
+          "budget": 12513,
+          "weight": 4.097
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 3,
+          "budget": 93735,
+          "weight": 14.916
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 12513,
+          "weight": 4.097
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 7770,
+          "weight": 3.89
+        },
+        {
+          "count": 1,
+          "budget": 79622,
+          "weight": 4.901
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T05",
+      "cells": [
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 3,
+          "budget": 10730,
+          "weight": 12.092
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 1428,
+          "weight": 6.31
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T06",
+      "cells": [
+        {
+          "count": 5,
+          "budget": 43644,
+          "weight": 23.2
+        },
+        {
+          "count": 4,
+          "budget": 94545,
+          "weight": 19.903
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 3,
+          "budget": 93735,
+          "weight": 14.916
+        },
+        {
+          "count": 3,
+          "budget": 10730,
+          "weight": 12.092
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": 4,
+          "budget": 45167,
+          "weight": 18.619
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 3,
+          "budget": 81050,
+          "weight": 14.726
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T07",
+      "cells": [
+        {
+          "count": 4,
+          "budget": 23047,
+          "weight": 17.451
+        },
+        {
+          "count": 2,
+          "budget": 2531,
+          "weight": 6.807
+        },
+        {
+          "count": 4,
+          "budget": 35220,
+          "weight": 18.187
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 3,
+          "budget": 13575,
+          "weight": 12.398
+        },
+        {
+          "count": 4,
+          "budget": 36733,
+          "weight": 18.26
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 3,
+          "budget": 6223,
+          "weight": 11.382
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T08",
+      "cells": [
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 3,
+          "budget": 13575,
+          "weight": 12.398
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T09",
+      "cells": [
+        {
+          "count": 6,
+          "budget": 36081,
+          "weight": 27.344
+        },
+        {
+          "count": 3,
+          "budget": 15638,
+          "weight": 12.583
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 1,
+          "budget": 12513,
+          "weight": 4.097
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 4,
+          "budget": 45783,
+          "weight": 18.643
+        },
+        {
+          "count": 4,
+          "budget": 36733,
+          "weight": 18.26
+        },
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 4,
+          "budget": 35585,
+          "weight": 18.205
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 2,
+          "budget": 966,
+          "weight": 5.971
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 6588,
+          "weight": 11.456
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T10",
+      "cells": [
+        {
+          "count": 3,
+          "budget": 18754,
+          "weight": 12.819
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 4,
+          "budget": 34390,
+          "weight": 18.146
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T11",
+      "cells": [
+        {
+          "count": 4,
+          "budget": 21069,
+          "weight": 17.295
+        },
+        {
+          "count": 3,
+          "budget": 5855,
+          "weight": 11.303
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": 4,
+          "budget": 42572,
+          "weight": 18.517
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 4,
+          "budget": 35585,
+          "weight": 18.205
+        },
+        {
+          "count": 4,
+          "budget": 34390,
+          "weight": 18.146
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 2,
+          "budget": 3125,
+          "weight": 6.99
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T12",
+      "cells": [
+        {
+          "count": 3,
+          "budget": 29531,
+          "weight": 13.411
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 4,
+          "budget": 45167,
+          "weight": 18.619
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": 3,
+          "budget": 33270,
+          "weight": 13.566
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T13",
+      "cells": [
+        {
+          "count": 2,
+          "budget": 966,
+          "weight": 5.971
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 966,
+          "weight": 5.971
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T14",
+      "cells": [
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T15",
+      "cells": [
+        {
+          "count": 3,
+          "budget": 10530,
+          "weight": 12.067
+        },
+        {
+          "count": 2,
+          "budget": 8580,
+          "weight": 7.867
+        },
+        {
+          "count": 3,
+          "budget": 19152,
+          "weight": 12.847
+        },
+        {
+          "count": 1,
+          "budget": 7770,
+          "weight": 3.89
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 3,
+          "budget": 25748,
+          "weight": 13.232
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": 2,
+          "budget": 10112,
+          "weight": 8.01
+        },
+        {
+          "count": 2,
+          "budget": 16446,
+          "weight": 8.432
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        }
+      ]
+    },
+    {
+      "tech_id": "T16",
+      "cells": [
+        {
+          "count": 4,
+          "budget": 8538,
+          "weight": 15.726
+        },
+        {
+          "count": 3,
+          "budget": 82747,
+          "weight": 14.753
+        },
+        {
+          "count": 2,
+          "budget": 2760,
+          "weight": 6.882
+        },
+        {
+          "count": 1,
+          "budget": 79622,
+          "weight": 4.901
+        },
+        {
+          "count": 2,
+          "budget": 1428,
+          "weight": 6.31
+        },
+        {
+          "count": 3,
+          "budget": 81050,
+          "weight": 14.726
+        },
+        {
+          "count": 3,
+          "budget": 6223,
+          "weight": 11.382
+        },
+        {
+          "count": 2,
+          "budget": 4273,
+          "weight": 7.262
+        },
+        {
+          "count": 3,
+          "budget": 6588,
+          "weight": 11.456
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 2,
+          "budget": 3125,
+          "weight": 6.99
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": 1,
+          "budget": 810,
+          "weight": 2.909
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T17",
+      "cells": [
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 1600,
+          "weight": 3.204
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        }
+      ]
+    },
+    {
+      "tech_id": "T18",
+      "cells": [
+        {
+          "count": 1,
+          "budget": 1200,
+          "weight": 3.08
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 1,
+          "budget": 15636,
+          "weight": 4.194
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": 0,
+          "budget": 0,
+          "weight": 0.0
+        },
+        {
+          "count": null,
+          "budget": null,
+          "weight": null
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "nonzero_ai_edges": 17,
+    "nonzero_matrix_cells": 252,
+    "total_ai_linkage_budget": 290485
+  }
+}

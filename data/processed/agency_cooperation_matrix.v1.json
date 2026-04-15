@@ -1,0 +1,1823 @@
+{
+  "agency_ids": [
+    "A01",
+    "A02",
+    "A03",
+    "A04",
+    "A05",
+    "A06",
+    "A07",
+    "A08",
+    "A09",
+    "A10",
+    "A11",
+    "A12",
+    "A13",
+    "A14",
+    "A15",
+    "A16",
+    "A17",
+    "A18"
+  ],
+  "agency_names": {
+    "A01": "과기부",
+    "A02": "행안부",
+    "A03": "문체부",
+    "A04": "농림부",
+    "A05": "산업부",
+    "A06": "복지부",
+    "A07": "기후부",
+    "A08": "고용부",
+    "A09": "국토부",
+    "A10": "해수부",
+    "A11": "중기부",
+    "A12": "식약처",
+    "A13": "지재처",
+    "A14": "조달청",
+    "A15": "방사청",
+    "A16": "산림청",
+    "A17": "질병청",
+    "A18": "기상청"
+  },
+  "matrix": [
+    [
+      {
+        "shared": 8,
+        "bodies": [
+          "3GPP",
+          "IEC",
+          "IEEE",
+          "IETF",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEEE",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "CODEX",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "CODEX"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 16,
+        "bodies": [
+          "(사실상표준화기구 통칭)",
+          "APEC",
+          "APEC SCSC",
+          "ASME",
+          "ICDM"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 10,
+        "bodies": [
+          "IAF",
+          "IEC",
+          "ILAC",
+          "ISO",
+          "ISO/TC 113/SC8"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 6,
+        "bodies": [
+          "IEC",
+          "IEC/TC 9",
+          "ISO",
+          "ISO/TC 269",
+          "ISO/TC211"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "CODEX"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "CODEX"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "IEC"
+        ]
+      },
+      {
+        "shared": 2,
+        "bodies": [
+          "IEC",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 2,
+        "bodies": [
+          "IEEE",
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 5,
+        "bodies": [
+          "ANSI",
+          "IEEE",
+          "ISO",
+          "KATS",
+          "KOLAS"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 1,
+        "bodies": [
+          "ISO"
+        ]
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ],
+    [
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      },
+      {
+        "shared": 0,
+        "bodies": []
+      }
+    ]
+  ],
+  "top_pairs": [
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A05",
+      "a2_name": "산업부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A07",
+      "a2_name": "기후부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A09",
+      "a2_name": "국토부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A12",
+      "a2_name": "식약처",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A15",
+      "a2_name": "방사청",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEEE",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A05",
+      "a1_name": "산업부",
+      "a2": "A07",
+      "a2_name": "기후부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A05",
+      "a1_name": "산업부",
+      "a2": "A09",
+      "a2_name": "국토부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A05",
+      "a1_name": "산업부",
+      "a2": "A12",
+      "a2_name": "식약처",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A07",
+      "a1_name": "기후부",
+      "a2": "A09",
+      "a2_name": "국토부",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A07",
+      "a1_name": "기후부",
+      "a2": "A12",
+      "a2_name": "식약처",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A09",
+      "a1_name": "국토부",
+      "a2": "A12",
+      "a2_name": "식약처",
+      "shared_count": 2,
+      "shared_bodies": [
+        "IEC",
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A02",
+      "a2_name": "행안부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A04",
+      "a2_name": "농림부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A11",
+      "a2_name": "중기부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "IEC"
+      ]
+    },
+    {
+      "a1": "A01",
+      "a1_name": "과기부",
+      "a2": "A16",
+      "a2_name": "산림청",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A02",
+      "a1_name": "행안부",
+      "a2": "A04",
+      "a2_name": "농림부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A02",
+      "a1_name": "행안부",
+      "a2": "A05",
+      "a2_name": "산업부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A02",
+      "a1_name": "행안부",
+      "a2": "A07",
+      "a2_name": "기후부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A02",
+      "a1_name": "행안부",
+      "a2": "A09",
+      "a2_name": "국토부",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    },
+    {
+      "a1": "A02",
+      "a1_name": "행안부",
+      "a2": "A12",
+      "a2_name": "식약처",
+      "shared_count": 1,
+      "shared_bodies": [
+        "ISO"
+      ]
+    }
+  ]
+}

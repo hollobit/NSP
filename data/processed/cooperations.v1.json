@@ -1,0 +1,505 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-15T05:52:30+00:00",
+  "source": {
+    "file": "2026 시행계획.pdf",
+    "extraction": "cooperation_extractor.py"
+  },
+  "stats": {
+    "total": 36,
+    "by_mode": {
+      "co_standardization": 15,
+      "mou": 9,
+      "mutual_recognition": 6,
+      "joint_rd": 6
+    },
+    "by_partner_type": {
+      "foreign_nsb": 18,
+      "intl_body": 12,
+      "industry": 4,
+      "domestic_agency": 2
+    },
+    "by_agency": {
+      "A01": 5,
+      "A05": 20,
+      "A07": 4,
+      "A11": 2,
+      "A13": 1,
+      "A14": 2,
+      "A15": 1,
+      "A16": 1
+    },
+    "with_project_id": 35,
+    "unique_partners": 14
+  },
+  "cooperations": [
+    {
+      "id": "COOP-0001",
+      "project_id": "P-A01-p13-s1",
+      "agency_id": "A01",
+      "partner_type": "foreign_nsb",
+      "partner_name": "중국",
+      "mode": "co_standardization",
+      "description": "* (전문연구실) AI 신뢰·안전성 1개 분야(‘25.) → AI 서비스·인프라 등 5개 분야로 확대(’26.~) ㅇ 선제적 표준 개발, 표준기술 전문가 육성, R&D성과와 표준연계 협력 강화를 위한 중장기 표준 전문연구실 지원",
+      "evidence": {
+        "page": 13,
+        "snippet": "* (전문연구실) AI 신뢰·안전성 1개 분야(‘25.) → AI 서비스·인프라 등 5개 분야로 확대(’26.~) ㅇ 선제적 표준 개발, 표준기술 전문가 육성, R&D성과와 표준연계 협력 강화를 위한 중장기 표준 전문연구실 지원"
+      }
+    },
+    {
+      "id": "COOP-0002",
+      "project_id": "P-A01-p19-s1",
+      "agency_id": "A01",
+      "partner_type": "intl_body",
+      "partner_name": "동북아(한중일)",
+      "mode": "co_standardization",
+      "description": "* 글로벌 표준화 선도국 표준화기구 간 표준협의체 참가 등(한중일 표준협력회의 등) ** 표준화 수준에 따른 표준 선도 협력, 시장 중심 협력, 표준 개발 협력으로 구분‧운영 ㅇ 주요 디지털 기술 분야(양자, 첨단모빌리티 등) 글로벌 사실표준화기구의",
+      "evidence": {
+        "page": 19,
+        "snippet": "* 글로벌 표준화 선도국 표준화기구 간 표준협의체 참가 등(한중일 표준협력회의 등) ** 표준화 수준에 따른 표준 선도 협력, 시장 중심 협력, 표준 개발 협력으로 구분‧운영 ㅇ 주요 디지털 기술 분야(양자, 첨단모빌리티 등) 글로벌 사실표준화기구의"
+      }
+    },
+    {
+      "id": "COOP-0003",
+      "project_id": "P-A01-p19-s1",
+      "agency_id": "A01",
+      "partner_type": "intl_body",
+      "partner_name": "동북아(한중일)",
+      "mode": "co_standardization",
+      "description": "- (소규모) 국내외 개최 수요 기반으로 정부 및 관련 기관과의 협의를 통해 개최하고, 개최 지원 인력 및 시스템 등 상시 지원 체계 구축 * JTC 1/SC 38(클라우드)/SC 6(시스템 간 통신), 한중일 표준협력회의 IMT/정보보호",
+      "evidence": {
+        "page": 20,
+        "snippet": "- (소규모) 국내외 개최 수요 기반으로 정부 및 관련 기관과의 협의를 통해 개최하고, 개최 지원 인력 및 시스템 등 상시 지원 체계 구축 * JTC 1/SC 38(클라우드)/SC 6(시스템 간 통신), 한중일 표준협력회의 IMT/정보보호"
+      }
+    },
+    {
+      "id": "COOP-0004",
+      "project_id": "P-A01-p19-s1",
+      "agency_id": "A01",
+      "partner_type": "intl_body",
+      "partner_name": "세계표준협력회의",
+      "mode": "co_standardization",
+      "description": "- 글로벌 표준공조체계 구축을 위한 협력 대상국 맞춤형 표준협력 프로그램(표준 선도 협력, 시장 중심 협력, 표준 개발 협력) 운영 * 표준선도협력 : 표준전략‧기술 세미나, 시장중심협력 : 표준 기반 비즈니스교류회,",
+      "evidence": {
+        "page": 20,
+        "snippet": "- 글로벌 표준공조체계 구축을 위한 협력 대상국 맞춤형 표준협력 프로그램(표준 선도 협력, 시장 중심 협력, 표준 개발 협력) 운영 * 표준선도협력 : 표준전략‧기술 세미나, 시장중심협력 : 표준 기반 비즈니스교류회,"
+      }
+    },
+    {
+      "id": "COOP-0005",
+      "project_id": "P-A01-p19-s1",
+      "agency_id": "A01",
+      "partner_type": "intl_body",
+      "partner_name": null,
+      "mode": "mou",
+      "description": "* 로벌 사우스의 표준 신흥국과의 표준협력 확대를 위한 협력협정 체결 및 표준협력 (표준개발협력) 프로그램 운영 ㅇ 핵심 디지털 기술 분야 국제회의 유치·개최(총 6건/중규모 1건, 소규모 5건)",
+      "evidence": {
+        "page": 20,
+        "snippet": "* 로벌 사우스의 표준 신흥국과의 표준협력 확대를 위한 협력협정 체결 및 표준협력 (표준개발협력) 프로그램 운영 ㅇ 핵심 디지털 기술 분야 국제회의 유치·개최(총 6건/중규모 1건, 소규모 5건)"
+      }
+    },
+    {
+      "id": "COOP-0006",
+      "project_id": null,
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "미국",
+      "mode": "co_standardization",
+      "description": "* (美) 핵심신흥기술 국가 표준화 전략(’23.5), (中) ‘신산업 표준화 실시 계획(’23.8), (EU) ‘EU 표준화 전략(’22.2) ㅇ (인정제도 동향) 국제인정기구(ILAC, IAF)는 업무의 효율성 및 절차의",
+      "evidence": {
+        "page": 55,
+        "snippet": "* (美) 핵심신흥기술 국가 표준화 전략(’23.5), (中) ‘신산업 표준화 실시 계획(’23.8), (EU) ‘EU 표준화 전략(’22.2) ㅇ (인정제도 동향) 국제인정기구(ILAC, IAF)는 업무의 효율성 및 절차의"
+      }
+    },
+    {
+      "id": "COOP-0007",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "intl_body",
+      "partner_name": "ILAC",
+      "mode": "mutual_recognition",
+      "description": "③ 인정·인증제도 운영 ㅇ (인정제도) 한국인정기구(KOLAS)는 9개 분야 1,317개(‘25) 기관 공인 * ILAC MRA(5개) : 시험, 교정, 표준물질, 메디컬, 숙련도, IAF MLA(2개) : 제품인증, 검증",
+      "evidence": {
+        "page": 57,
+        "snippet": "③ 인정·인증제도 운영 ㅇ (인정제도) 한국인정기구(KOLAS)는 9개 분야 1,317개(‘25) 기관 공인 * ILAC MRA(5개) : 시험, 교정, 표준물질, 메디컬, 숙련도, IAF MLA(2개) : 제품인증, 검증"
+      }
+    },
+    {
+      "id": "COOP-0008",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "industry",
+      "partner_name": null,
+      "mode": "mutual_recognition",
+      "description": "(MRA) (MRA) (MRA) (MRA) (MRA) (MLA) (MLA) 기관수 862 76 291 20 14 13 24 8 9 1,317 ㅇ (인증제도) KS인증(인증품목 660, 인증기업 8,728), 신제품인증, 신기술인증,",
+      "evidence": {
+        "page": 57,
+        "snippet": "(MRA) (MRA) (MRA) (MRA) (MRA) (MLA) (MLA) 기관수 862 76 291 20 14 13 24 8 9 1,317 ㅇ (인증제도) KS인증(인증품목 660, 인증기업 8,728), 신제품인증, 신기술인증,"
+      }
+    },
+    {
+      "id": "COOP-0009",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "중국",
+      "mode": "co_standardization",
+      "description": "- WTO/FTA TBT 등 양자·다자 협상을 통한 기업의 기술규제 애로 해소 * 애로 376건 중 164건 해소(인도 우즈벡, EU, 인니, 사우디, 중국 순 36개국 TBT 대응) ㅇ (국내규제 정비) 불합리한 국내 인증제도 정비 및 신설 인증 억제",
+      "evidence": {
+        "page": 57,
+        "snippet": "- WTO/FTA TBT 등 양자·다자 협상을 통한 기업의 기술규제 애로 해소 * 애로 376건 중 164건 해소(인도 우즈벡, EU, 인니, 사우디, 중국 순 36개국 TBT 대응) ㅇ (국내규제 정비) 불합리한 국내 인증제도 정비 및 신설 인증 억제"
+      }
+    },
+    {
+      "id": "COOP-0010",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "industry",
+      "partner_name": "KOLAS",
+      "mode": "co_standardization",
+      "description": "공인) 및 인증제도(융합특례인증, 신기술·신제품인증 등) 운영 ㅇ 국내외 기술규제에 대한 대응에도 불구하고 규제수는 지속적으로 증가 - 양자·다자 협력 확대를 통해 수출기업의 애로를 해소하고 국내",
+      "evidence": {
+        "page": 58,
+        "snippet": "공인) 및 인증제도(융합특례인증, 신기술·신제품인증 등) 운영 ㅇ 국내외 기술규제에 대한 대응에도 불구하고 규제수는 지속적으로 증가 - 양자·다자 협력 확대를 통해 수출기업의 애로를 해소하고 국내"
+      }
+    },
+    {
+      "id": "COOP-0011",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "미국",
+      "mode": "joint_rd",
+      "description": "- 美 SAE와 협력을 통해 한-미 표준화 로드맵 공동 개발(‘26.上) - 전기차(화재예방, 무선충전) * 표준화, 자율차 핵심부품 표준화 대상 발굴 * 화재예방 충전 프로토콜(제안), 양방향 무선 충전 상호호환성 및 안전성(제안) 등",
+      "evidence": {
+        "page": 63,
+        "snippet": "- 美 SAE와 협력을 통해 한-미 표준화 로드맵 공동 개발(‘26.上) - 전기차(화재예방, 무선충전) * 표준화, 자율차 핵심부품 표준화 대상 발굴 * 화재예방 충전 프로토콜(제안), 양방향 무선 충전 상호호환성 및 안전성(제안) 등"
+      }
+    },
+    {
+      "id": "COOP-0012",
+      "project_id": "P-A05-p62-s1",
+      "agency_id": "A05",
+      "partner_type": "domestic_agency",
+      "partner_name": "IACS",
+      "mode": "co_standardization",
+      "description": "** 원전 해체 일반 원칙(대응), 무선 계측제어 시설 평가(제안), SMR 배관 굽힘 성형 공정(제안) ㅇ (미래선박) 국내외 협력을 바탕으로 해운 탄소중립 대응 표준화 추진 - 국제선급협회(IACS) 및 해수부*와 표준화 아이템 발굴 등 협력 추진",
+      "evidence": {
+        "page": 63,
+        "snippet": "** 원전 해체 일반 원칙(대응), 무선 계측제어 시설 평가(제안), SMR 배관 굽힘 성형 공정(제안) ㅇ (미래선박) 국내외 협력을 바탕으로 해운 탄소중립 대응 표준화 추진 - 국제선급협회(IACS) 및 해수부*와 표준화 아이템 발굴 등 협력 추진"
+      }
+    },
+    {
+      "id": "COOP-0013",
+      "project_id": "P-A05-p64-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "영국",
+      "mode": "joint_rd",
+      "description": "- 초대형 및 부유식 해상풍력 개발 기술과 연계한 표준 아이템 발굴 ㅇ (첨단제조) 국제기구 리더십 확대 등을 통한 제조 데이터 등 표준화 추진 - TC65 신설 SC(스마트제조 및 기업 응용) 간사 수임, 국제표준 공동 개발*",
+      "evidence": {
+        "page": 64,
+        "snippet": "- 초대형 및 부유식 해상풍력 개발 기술과 연계한 표준 아이템 발굴 ㅇ (첨단제조) 국제기구 리더십 확대 등을 통한 제조 데이터 등 표준화 추진 - TC65 신설 SC(스마트제조 및 기업 응용) 간사 수임, 국제표준 공동 개발*"
+      }
+    },
+    {
+      "id": "COOP-0014",
+      "project_id": "P-A05-p64-s2",
+      "agency_id": "A05",
+      "partner_type": "industry",
+      "partner_name": null,
+      "mode": "joint_rd",
+      "description": "- 플라스틱 재활용, 바이오 플라스틱(생분해·바이오매스) 등 표준화 * 플라스틱 재활용 원료 순도 및 등급화(개발), 바이오 플라스틱 탄소 함량 분석법(제안) ㅇ (나노 소재) 표준협력 등을 통해 나노기술의 첨단산업 적용을 위한 표준화 추진",
+      "evidence": {
+        "page": 65,
+        "snippet": "- 플라스틱 재활용, 바이오 플라스틱(생분해·바이오매스) 등 표준화 * 플라스틱 재활용 원료 순도 및 등급화(개발), 바이오 플라스틱 탄소 함량 분석법(제안) ㅇ (나노 소재) 표준협력 등을 통해 나노기술의 첨단산업 적용을 위한 표준화 추진"
+      }
+    },
+    {
+      "id": "COOP-0015",
+      "project_id": "P-A05-p64-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "영국",
+      "mode": "joint_rd",
+      "description": "* 성균관대(韓)-Verarien plc(英) 공동 연구를 통한 나노소재 저온 전기적 특성 등 국제표준 제안 - 반도체, 이차전지 등 첨단산업 분야에 적용 가능한 나노 소재 표준화 * 나노 복합 소재 전자파 차폐 특성 분석방법(제안), 실리콘 음극재 물성 특성 분석방법(제안)",
+      "evidence": {
+        "page": 65,
+        "snippet": "* 성균관대(韓)-Verarien plc(英) 공동 연구를 통한 나노소재 저온 전기적 특성 등 국제표준 제안 - 반도체, 이차전지 등 첨단산업 분야에 적용 가능한 나노 소재 표준화 * 나노 복합 소재 전자파 차폐 특성 분석방법(제안), 실리콘 음극재 물성 특성 분석방법(제안)"
+      }
+    },
+    {
+      "id": "COOP-0016",
+      "project_id": "P-A05-p66-s3",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "독일",
+      "mode": "joint_rd",
+      "description": "- ISO/TC299 WG 회의 국내 개최 및 국제표준 공동 개발(독일 등) - 착용로봇 피부상해 평가, 로봇-사람 충돌시험 더비 조건 등 국제표준 제안 ㅇ (항공우주) 항공·우주 분야는 준비단계에서 본격 추진 단계로 전환",
+      "evidence": {
+        "page": 66,
+        "snippet": "- ISO/TC299 WG 회의 국내 개최 및 국제표준 공동 개발(독일 등) - 착용로봇 피부상해 평가, 로봇-사람 충돌시험 더비 조건 등 국제표준 제안 ㅇ (항공우주) 항공·우주 분야는 준비단계에서 본격 추진 단계로 전환"
+      }
+    },
+    {
+      "id": "COOP-0017",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "미국",
+      "mode": "co_standardization",
+      "description": "및 아태지역의 표준화기구와 표준협력 확대 추진 □ 당해연도 사업 추진계획 ㅇ (양자협력) 기술표준 강국 및 전략적 협력국과 표준협력 추진",
+      "evidence": {
+        "page": 85,
+        "snippet": "및 아태지역의 표준화기구와 표준협력 확대 추진 □ 당해연도 사업 추진계획 ㅇ (양자협력) 기술표준 강국 및 전략적 협력국과 표준협력 추진"
+      }
+    },
+    {
+      "id": "COOP-0018",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "미국",
+      "mode": "mou",
+      "description": "- 강국독일 표준협회DIN·DKE와 포럼 개최, 수소·DPP 등 분야 전문가 교류(반기)",
+      "evidence": {
+        "page": 85,
+        "snippet": "- 강국독일 표준협회DIN·DKE와 포럼 개최, 수소·DPP 등 분야 전문가 교류(반기)"
+      }
+    },
+    {
+      "id": "COOP-0019",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "독일",
+      "mode": "mou",
+      "description": "- 협력국캐나다 표준화위원회SCC와 MOU 재체결(’25)에 따른 시행계획 마련",
+      "evidence": {
+        "page": 85,
+        "snippet": "- 협력국캐나다 표준화위원회SCC와 MOU 재체결(’25)에 따른 시행계획 마련"
+      }
+    },
+    {
+      "id": "COOP-0020",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "캐나다",
+      "mode": "mou",
+      "description": "ㅇ (다자협력) 아태지역 표준화기구와 협력 네트워크 강화",
+      "evidence": {
+        "page": 85,
+        "snippet": "ㅇ (다자협력) 아태지역 표준화기구와 협력 네트워크 강화"
+      }
+    },
+    {
+      "id": "COOP-0021",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "중국",
+      "mode": "mou",
+      "description": "- APEC SCSC(표준적합성소위) 표준·적합성 협력 이니셔티브 활동 지속*",
+      "evidence": {
+        "page": 85,
+        "snippet": "- APEC SCSC(표준적합성소위) 표준·적합성 협력 이니셔티브 활동 지속*"
+      }
+    },
+    {
+      "id": "COOP-0022",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "중국",
+      "mode": "co_standardization",
+      "description": "- APEC SCSC(표준적합성소위) 표준·적합성 협력 이니셔티브 활동 지속* * ‛25년 SCSC 신규 발제 프로젝트 이행(표준분야 고등교육 방안, 인정분야 디지털 전환 등) - 동북아표준협력포럼(한·중·일) 개최를 통해 표준개발* 및 정책협의 추진",
+      "evidence": {
+        "page": 85,
+        "snippet": "- APEC SCSC(표준적합성소위) 표준·적합성 협력 이니셔티브 활동 지속* * ‛25년 SCSC 신규 발제 프로젝트 이행(표준분야 고등교육 방안, 인정분야 디지털 전환 등) - 동북아표준협력포럼(한·중·일) 개최를 통해 표준개발* 및 정책협의 추진"
+      }
+    },
+    {
+      "id": "COOP-0023",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "intl_body",
+      "partner_name": "APEC",
+      "mode": "co_standardization",
+      "description": "□ 당해연도 예산 현황 구분 예산(백만원) 국제표준활동지원(한-아세안 표준협력) 500",
+      "evidence": {
+        "page": 85,
+        "snippet": "□ 당해연도 예산 현황 구분 예산(백만원) 국제표준활동지원(한-아세안 표준협력) 500"
+      }
+    },
+    {
+      "id": "COOP-0024",
+      "project_id": "P-A05-p85-s2",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "독일",
+      "mode": "co_standardization",
+      "description": "국제표준활동지원(한-아세안 표준협력) 500 개도국표준체계보급사업 2,020 국가표준기술력향상(한-독 표준협력기반 고도화) 210",
+      "evidence": {
+        "page": 85,
+        "snippet": "국제표준활동지원(한-아세안 표준협력) 500 개도국표준체계보급사업 2,020 국가표준기술력향상(한-독 표준협력기반 고도화) 210"
+      }
+    },
+    {
+      "id": "COOP-0025",
+      "project_id": "P-A05-p86-s3",
+      "agency_id": "A05",
+      "partner_type": "foreign_nsb",
+      "partner_name": "호주",
+      "mode": "mou",
+      "description": "개최하여 기업의 표준화 참여 확대 등 추진 * ICDM(국제디스플레이 계측위원회), VESA(비디오전자공학표준위원회) 등 ㅇ (항공우주) SAE와 업무협약(MoU)을 바탕으로 AAM 버티포트 충전",
+      "evidence": {
+        "page": 86,
+        "snippet": "개최하여 기업의 표준화 참여 확대 등 추진 * ICDM(국제디스플레이 계측위원회), VESA(비디오전자공학표준위원회) 등 ㅇ (항공우주) SAE와 업무협약(MoU)을 바탕으로 AAM 버티포트 충전"
+      }
+    },
+    {
+      "id": "COOP-0026",
+      "project_id": "P-A07-p102-s1",
+      "agency_id": "A07",
+      "partner_type": "intl_body",
+      "partner_name": null,
+      "mode": "mutual_recognition",
+      "description": "평가에 대한 국제적 정합성과 상호인정 기반 표준체계 확립 필요 □ 탄소 중립, 순환 경제 등 환경 전환 이슈가 산업 경쟁력, 무역규제와 직결되며 이에 대응하기 위한 환경 표준체계 구축 필요",
+      "evidence": {
+        "page": 98,
+        "snippet": "평가에 대한 국제적 정합성과 상호인정 기반 표준체계 확립 필요 □ 탄소 중립, 순환 경제 등 환경 전환 이슈가 산업 경쟁력, 무역규제와 직결되며 이에 대응하기 위한 환경 표준체계 구축 필요"
+      }
+    },
+    {
+      "id": "COOP-0027",
+      "project_id": "P-A07-p108-s1",
+      "agency_id": "A07",
+      "partner_type": "intl_body",
+      "partner_name": "GACI",
+      "mode": "mutual_recognition",
+      "description": "인정협의체(GAC) 간 국제적 상호인정(MRA) 체결 유지·확대 - 기후변화 정책 변화와 환경정보 검증 수요 확대에 대응하기 위해 탄소 중립(ISO 14068-1) 선언 검증 제도 운영 및 국제 호환 체계 선제적 대응",
+      "evidence": {
+        "page": 108,
+        "snippet": "인정협의체(GAC) 간 국제적 상호인정(MRA) 체결 유지·확대 - 기후변화 정책 변화와 환경정보 검증 수요 확대에 대응하기 위해 탄소 중립(ISO 14068-1) 선언 검증 제도 운영 및 국제 호환 체계 선제적 대응"
+      }
+    },
+    {
+      "id": "COOP-0028",
+      "project_id": "P-A07-p108-s1",
+      "agency_id": "A07",
+      "partner_type": "intl_body",
+      "partner_name": "ILAC",
+      "mode": "mutual_recognition",
+      "description": "- 기후변화 정책 변화와 환경정보 검증 수요 확대에 대응하기 위해 탄소 중립(ISO 14068-1) 선언 검증 제도 운영 및 국제 호환 체계 선제적 대응 * 글로벌인정협의체(GACI, Global Accreditation Cooperation Incorporated) : 검증분야",
+      "evidence": {
+        "page": 108,
+        "snippet": "- 기후변화 정책 변화와 환경정보 검증 수요 확대에 대응하기 위해 탄소 중립(ISO 14068-1) 선언 검증 제도 운영 및 국제 호환 체계 선제적 대응 * 글로벌인정협의체(GACI, Global Accreditation Cooperation Incorporated) : 검증분야"
+      }
+    },
+    {
+      "id": "COOP-0029",
+      "project_id": "P-A07-p108-s1",
+      "agency_id": "A07",
+      "partner_type": "intl_body",
+      "partner_name": "ILAC",
+      "mode": "co_standardization",
+      "description": "IAF(국제인정기구)와 시험·검사분야 ILAC(국제시험소협의체) 통합·운영 개시(‘26.1.1~) □ 당해연도 사업 추진계획 ㅇ 기업의 탄소중립 선언 국제표준(ISO 14068-1) 요구사항을 반영한",
+      "evidence": {
+        "page": 108,
+        "snippet": "IAF(국제인정기구)와 시험·검사분야 ILAC(국제시험소협의체) 통합·운영 개시(‘26.1.1~) □ 당해연도 사업 추진계획 ㅇ 기업의 탄소중립 선언 국제표준(ISO 14068-1) 요구사항을 반영한"
+      }
+    },
+    {
+      "id": "COOP-0030",
+      "project_id": "P-A11-p153-s12",
+      "agency_id": "A11",
+      "partner_type": "foreign_nsb",
+      "partner_name": "독일",
+      "mode": "co_standardization",
+      "description": "세미나 개최ㆍ운영 ㅇ 원활한 제조데이터 공유, 거래, 활용을 지원하는 Manufacturing-X 등 디지털 생태계 관련 Use Case 개발 등 협력사업 추진",
+      "evidence": {
+        "page": 153,
+        "snippet": "세미나 개최ㆍ운영 ㅇ 원활한 제조데이터 공유, 거래, 활용을 지원하는 Manufacturing-X 등 디지털 생태계 관련 Use Case 개발 등 협력사업 추진"
+      }
+    },
+    {
+      "id": "COOP-0031",
+      "project_id": "P-A11-p153-s12",
+      "agency_id": "A11",
+      "partner_type": "foreign_nsb",
+      "partner_name": "독일",
+      "mode": "mou",
+      "description": "- 제조선진국과의 MOU 등 글로벌 네트워크를 활용하여 우리의 글로벌 스마트제조 표준화 역량 강화 및 주도권 확보 노력 * LI4.0(獨 중소제조기업 디지털화 지원기구)과 MOU(’20.12, ‘23.11)를 체결",
+      "evidence": {
+        "page": 153,
+        "snippet": "- 제조선진국과의 MOU 등 글로벌 네트워크를 활용하여 우리의 글로벌 스마트제조 표준화 역량 강화 및 주도권 확보 노력 * LI4.0(獨 중소제조기업 디지털화 지원기구)과 MOU(’20.12, ‘23.11)를 체결"
+      }
+    },
+    {
+      "id": "COOP-0032",
+      "project_id": "P-A13-p168-s1",
+      "agency_id": "A13",
+      "partner_type": "foreign_nsb",
+      "partner_name": "미국",
+      "mode": "co_standardization",
+      "description": "* (美) 핵심·신흥기술 표준화 전략(’23.5.) / 동류국가 간 표준화 파트너십 확대 등 (中) 신산업 표준화 시범사업 실시방안(’23.8.) / 국제표준화 활동 참여 확대 등 ㅇ 디지털 전환이 가속화됨에 따라 상호연결 호환성 확보에 필요한",
+      "evidence": {
+        "page": 165,
+        "snippet": "* (美) 핵심·신흥기술 표준화 전략(’23.5.) / 동류국가 간 표준화 파트너십 확대 등 (中) 신산업 표준화 시범사업 실시방안(’23.8.) / 국제표준화 활동 참여 확대 등 ㅇ 디지털 전환이 가속화됨에 따라 상호연결 호환성 확보에 필요한"
+      }
+    },
+    {
+      "id": "COOP-0033",
+      "project_id": "P-A14-p173-s1",
+      "agency_id": "A14",
+      "partner_type": "intl_body",
+      "partner_name": null,
+      "mode": "mou",
+      "description": "서비스 표준 반영을 통한 품질기준 마련 및 신뢰도 확보 ㅇ ‘서비스 공공조달 개선방안’(‘24.6월,기재부·조달청) 및 국가기술표준원과 업무협약(`24.12.)에 따라 공공조달시장 내 서비스 표준화 확산 추진",
+      "evidence": {
+        "page": 171,
+        "snippet": "서비스 표준 반영을 통한 품질기준 마련 및 신뢰도 확보 ㅇ ‘서비스 공공조달 개선방안’(‘24.6월,기재부·조달청) 및 국가기술표준원과 업무협약(`24.12.)에 따라 공공조달시장 내 서비스 표준화 확산 추진"
+      }
+    },
+    {
+      "id": "COOP-0034",
+      "project_id": "P-A14-p173-s1",
+      "agency_id": "A14",
+      "partner_type": "intl_body",
+      "partner_name": null,
+      "mode": "joint_rd",
+      "description": "ㅇ 공공조달 서비스 시장의 특수성을 반영한 서비스 표준 공동개발 - 공공시장의 부분이 큰 서비스 표준 개발 시 협업하여 수요기관의 역할, 계약 방법 등을 포함하는 내용으로 공동개발 추진",
+      "evidence": {
+        "page": 172,
+        "snippet": "ㅇ 공공조달 서비스 시장의 특수성을 반영한 서비스 표준 공동개발 - 공공시장의 부분이 큰 서비스 표준 개발 시 협업하여 수요기관의 역할, 계약 방법 등을 포함하는 내용으로 공동개발 추진"
+      }
+    },
+    {
+      "id": "COOP-0035",
+      "project_id": "P-A15-p180-s1",
+      "agency_id": "A15",
+      "partner_type": "domestic_agency",
+      "partner_name": "기품원",
+      "mode": "mou",
+      "description": "ㅇ 국방우주 표준화 생태계 조성 활동 추진 - 적격성 인증제도 구축 관련 부처간 협력 방안 마련 - 기품원-정출연 간 MOU 체결을 통한 국방우주 표준 협력 개발",
+      "evidence": {
+        "page": 180,
+        "snippet": "ㅇ 국방우주 표준화 생태계 조성 활동 추진 - 적격성 인증제도 구축 관련 부처간 협력 방안 마련 - 기품원-정출연 간 MOU 체결을 통한 국방우주 표준 협력 개발"
+      }
+    },
+    {
+      "id": "COOP-0036",
+      "project_id": "P-A16-p195-s2",
+      "agency_id": "A16",
+      "partner_type": "industry",
+      "partner_name": null,
+      "mode": "mutual_recognition",
+      "description": "- 산업계 제품 다변화 추세를 반영한 공학목재 KS 체계의 합리적 정비 - 국제표준과의 정합성 확보를 통해 국내 KS의 국제 경쟁력 및 상호인정 기반 강화",
+      "evidence": {
+        "page": 195,
+        "snippet": "- 산업계 제품 다변화 추세를 반영한 공학목재 KS 체계의 합리적 정비 - 국제표준과의 정합성 확보를 통해 국내 KS의 국제 경쟁력 및 상호인정 기반 강화"
+      }
+    }
+  ]
+}

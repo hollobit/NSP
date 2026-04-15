@@ -1,0 +1,364 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-15T05:41:06+00:00",
+  "source": "Aggregated from core_tasks.v1 + projects.v1 + budget_trajectory.v1",
+  "tasks": [
+    {
+      "task_id": "CT-1-1",
+      "domain_id": "D1",
+      "name": "미래 핵심산업 표준화",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A07",
+        "A11",
+        "A15"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "기후부",
+        "중기부",
+        "방사청"
+      ],
+      "project_count": 8,
+      "project_budget_2026": 48056,
+      "agency_yearly_budget": {
+        "2026": 240624,
+        "2027": 262037,
+        "2028": 280052,
+        "2029": 289205,
+        "2030": 299877
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-1-2",
+      "domain_id": "D1",
+      "name": "AI 핵심기반 및 AI 산업융합 표준화",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A07",
+        "A11",
+        "A12",
+        "A15"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "기후부",
+        "중기부",
+        "식약처",
+        "방사청"
+      ],
+      "project_count": 7,
+      "project_budget_2026": 19483,
+      "agency_yearly_budget": {
+        "2026": 241905,
+        "2027": 263190,
+        "2028": 281205,
+        "2029": 290358,
+        "2030": 301030
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-1-3",
+      "domain_id": "D1",
+      "name": "R&D 성과물의 표준화 확대",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A11",
+        "A13",
+        "A15"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "중기부",
+        "지재처",
+        "방사청"
+      ],
+      "project_count": 6,
+      "project_budget_2026": 16532,
+      "agency_yearly_budget": {
+        "2026": 241926,
+        "2027": 263533,
+        "2028": 281912,
+        "2029": 291495,
+        "2030": 302587
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-1-4",
+      "domain_id": "D1",
+      "name": "첨단산업 지원 산업계량 본격화",
+      "responsible_agencies": [
+        "A05"
+      ],
+      "responsible_agency_shorts": [
+        "산업부"
+      ],
+      "project_count": 1,
+      "project_budget_2026": 0,
+      "agency_yearly_budget": {
+        "2026": 89325,
+        "2027": 97562,
+        "2028": 108614,
+        "2029": 119164,
+        "2030": 130769
+      },
+      "has_impl_plan": false
+    },
+    {
+      "task_id": "CT-2-1",
+      "domain_id": "D2",
+      "name": "안전한 사회 구현을 위한 표준화",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A08",
+        "A18"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "고용부",
+        "기상청"
+      ],
+      "project_count": 5,
+      "project_budget_2026": 9270,
+      "agency_yearly_budget": {
+        "2026": 217988,
+        "2027": 233036,
+        "2028": 248063,
+        "2029": 262596,
+        "2030": 278194
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-2-2",
+      "domain_id": "D2",
+      "name": "국민의 편의와 건강을 위한 표준화",
+      "responsible_agencies": [
+        "A01",
+        "A02",
+        "A03",
+        "A04",
+        "A05",
+        "A06",
+        "A07",
+        "A09",
+        "A10",
+        "A12",
+        "A14",
+        "A16"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "행안부",
+        "문체부",
+        "농림부",
+        "산업부",
+        "복지부",
+        "기후부",
+        "국토부",
+        "해수부",
+        "식약처",
+        "조달청",
+        "산림청"
+      ],
+      "project_count": 28,
+      "project_budget_2026": 22189,
+      "agency_yearly_budget": {
+        "2026": 238799,
+        "2027": 253058,
+        "2028": 268104,
+        "2029": 282593,
+        "2030": 290554
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-2-3",
+      "domain_id": "D2",
+      "name": "공정한 거래환경 조성을 위한 상거래 확립",
+      "responsible_agencies": [
+        "A05"
+      ],
+      "responsible_agency_shorts": [
+        "산업부"
+      ],
+      "project_count": 3,
+      "project_budget_2026": 1157,
+      "agency_yearly_budget": {
+        "2026": 89325,
+        "2027": 97562,
+        "2028": 108614,
+        "2029": 119164,
+        "2030": 130769
+      },
+      "has_impl_plan": false
+    },
+    {
+      "task_id": "CT-3-1",
+      "domain_id": "D3",
+      "name": "국내외 기술규제 대응체계 구축",
+      "responsible_agencies": [
+        "A05",
+        "A07",
+        "A12"
+      ],
+      "responsible_agency_shorts": [
+        "산업부",
+        "기후부",
+        "식약처"
+      ],
+      "project_count": 6,
+      "project_budget_2026": 10235,
+      "agency_yearly_budget": {
+        "2026": 93897,
+        "2027": 102036,
+        "2028": 113004,
+        "2029": 123404,
+        "2030": 134869
+      },
+      "has_impl_plan": false
+    },
+    {
+      "task_id": "CT-3-2",
+      "domain_id": "D3",
+      "name": "신수요 분야 시험인증서비스 확대",
+      "responsible_agencies": [
+        "A05",
+        "A07",
+        "A11"
+      ],
+      "responsible_agency_shorts": [
+        "산업부",
+        "기후부",
+        "중기부"
+      ],
+      "project_count": 5,
+      "project_budget_2026": 6178,
+      "agency_yearly_budget": {
+        "2026": 108392,
+        "2027": 123094,
+        "2028": 136932,
+        "2029": 141832,
+        "2030": 148297
+      },
+      "has_impl_plan": false
+    },
+    {
+      "task_id": "CT-3-3",
+      "domain_id": "D3",
+      "name": "시험인증 신뢰성 제고 기반 조성",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A07",
+        "A15",
+        "A17"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "기후부",
+        "방사청",
+        "질병청"
+      ],
+      "project_count": 8,
+      "project_budget_2026": 111176,
+      "agency_yearly_budget": {
+        "2026": 225764,
+        "2027": 240742,
+        "2028": 255980,
+        "2029": 270633,
+        "2030": 286305
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-4-1",
+      "domain_id": "D4",
+      "name": "전략적 표준외교 강화",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A12"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "식약처"
+      ],
+      "project_count": 5,
+      "project_budget_2026": 9494,
+      "agency_yearly_budget": {
+        "2026": 218205,
+        "2027": 233125,
+        "2028": 248152,
+        "2029": 262685,
+        "2030": 278283
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-4-2",
+      "domain_id": "D4",
+      "name": "민간 표준 리더십 활용·확대",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A07"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "기후부"
+      ],
+      "project_count": 4,
+      "project_budget_2026": 6699,
+      "agency_yearly_budget": {
+        "2026": 220215,
+        "2027": 235293,
+        "2028": 250236,
+        "2029": 264619,
+        "2030": 280077
+      },
+      "has_impl_plan": true
+    },
+    {
+      "task_id": "CT-4-3",
+      "domain_id": "D4",
+      "name": "정보·인력 표준 기반 고도화",
+      "responsible_agencies": [
+        "A01",
+        "A05",
+        "A07",
+        "A11"
+      ],
+      "responsible_agency_shorts": [
+        "과기부",
+        "산업부",
+        "기후부",
+        "중기부"
+      ],
+      "project_count": 9,
+      "project_budget_2026": 8312,
+      "agency_yearly_budget": {
+        "2026": 235991,
+        "2027": 257504,
+        "2028": 275317,
+        "2029": 284200,
+        "2030": 294658
+      },
+      "has_impl_plan": true
+    }
+  ]
+}

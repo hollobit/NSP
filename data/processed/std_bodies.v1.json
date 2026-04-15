@@ -1,0 +1,736 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-04-15T05:54:23+00:00",
+  "bodies": [
+    {
+      "id": "SB-ISO_IEC_JTC1",
+      "name": "ISO/IEC JTC1",
+      "type": "formal",
+      "level": "jtc",
+      "parent": null,
+      "scope": "Information technology — the primary joint committee of ISO and IEC",
+      "primary_tech_category_ids": [
+        "T01",
+        "T04",
+        "T06",
+        "T15",
+        "T17",
+        "T18"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference",
+      "established": 1987
+    },
+    {
+      "id": "SB-ISO_IEC_JTC2",
+      "name": "ISO/IEC JTC2",
+      "type": "formal",
+      "level": "jtc",
+      "parent": null,
+      "scope": "Energy efficiency and renewable energy sources (historical, dissolved in 2013; activities merged into TC 301 and related TCs)",
+      "primary_tech_category_ids": [
+        "T11"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference",
+      "established": 2009,
+      "status": "dissolved"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC3",
+      "name": "ISO/IEC JTC3",
+      "type": "formal",
+      "level": "jtc",
+      "parent": null,
+      "scope": "Quantum technologies (newly established 2024)",
+      "primary_tech_category_ids": [
+        "T02"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference",
+      "established": 2024
+    },
+    {
+      "id": "SB-ISO_IEC_JTC4",
+      "name": "ISO/IEC JTC4",
+      "type": "formal",
+      "level": "jtc",
+      "parent": null,
+      "scope": "(Reserved/Not yet established — placeholder for future ISO/IEC joint committee)",
+      "primary_tech_category_ids": [],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference",
+      "status": "reserved"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC5",
+      "name": "ISO/IEC JTC5",
+      "type": "formal",
+      "level": "jtc",
+      "parent": null,
+      "scope": "(Reserved/Not yet established — placeholder for future ISO/IEC joint committee)",
+      "primary_tech_category_ids": [],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference",
+      "status": "reserved"
+    },
+    {
+      "id": "SB-ISO_TC_147",
+      "name": "ISO/TC 147",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A07-p105-s2",
+        "P-A07-p106-s3"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC224",
+      "name": "ISO/TC224",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A07-p103-s1",
+        "P-A07-p107-s4"
+      ]
+    },
+    {
+      "id": "SB-IEC_TC_9",
+      "name": "IEC/TC 9",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A09-p127-s1"
+      ]
+    },
+    {
+      "id": "SB-IEC_TC113",
+      "name": "IEC/TC113",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p64-s2"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC_113_SC8",
+      "name": "ISO/TC 113/SC8",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p113-s1"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC_224",
+      "name": "ISO/TC 224",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p107-s4"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC_269",
+      "name": "ISO/TC 269",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A09-p127-s1"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC122",
+      "name": "ISO/TC122",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p110-s1"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC20_SC14",
+      "name": "ISO/TC20/SC14",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p66-s3"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC211",
+      "name": "ISO/TC211",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A09-p130-s3"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC268",
+      "name": "ISO/TC268",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p102-s1"
+      ]
+    },
+    {
+      "id": "SB-ISO_TC299",
+      "name": "ISO/TC299",
+      "type": "formal",
+      "level": "tc",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p66-s3"
+      ]
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC24",
+      "name": "ISO/IEC JTC1/SC24",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Computer graphics, image processing, AR/VR/MR data representation",
+      "primary_tech_category_ids": [
+        "T15"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC27",
+      "name": "ISO/IEC JTC1/SC27",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Information security, cybersecurity and privacy protection",
+      "primary_tech_category_ids": [
+        "T17"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC29",
+      "name": "ISO/IEC JTC1/SC29",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Coding of audio, picture, multimedia and hypermedia information (JPEG, MPEG)",
+      "primary_tech_category_ids": [
+        "T15"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC31",
+      "name": "ISO/IEC JTC1/SC31",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Automatic identification and data capture (RFID, barcodes)",
+      "primary_tech_category_ids": [
+        "T18"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC32",
+      "name": "ISO/IEC JTC1/SC32",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Data management and interchange (SQL, metadata)",
+      "primary_tech_category_ids": [
+        "T01"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC37",
+      "name": "ISO/IEC JTC1/SC37",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Biometrics",
+      "primary_tech_category_ids": [
+        "T17"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC38",
+      "name": "ISO/IEC JTC1/SC38",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Cloud computing and distributed platforms",
+      "primary_tech_category_ids": [
+        "T01",
+        "T18"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC39",
+      "name": "ISO/IEC JTC1/SC39",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Sustainability, IT and data centres",
+      "primary_tech_category_ids": [
+        "T11"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC41",
+      "name": "ISO/IEC JTC1/SC41",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Internet of Things and digital twin",
+      "primary_tech_category_ids": [
+        "T18"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC42",
+      "name": "ISO/IEC JTC1/SC42",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Artificial intelligence — foundational, trustworthiness, computational approaches, use cases, governance (ISO/IEC 22989, 23053, 23894, 42001 등)",
+      "primary_tech_category_ids": [
+        "T01"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC43",
+      "name": "ISO/IEC JTC1/SC43",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Brain-computer interfaces (신설 2024)",
+      "primary_tech_category_ids": [
+        "T01",
+        "T10"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC6",
+      "name": "ISO/IEC JTC1/SC6",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Telecommunications and information exchange between systems",
+      "primary_tech_category_ids": [
+        "T04",
+        "T18"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC1_SC7",
+      "name": "ISO/IEC JTC1/SC7",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC1",
+      "scope": "Software and systems engineering",
+      "primary_tech_category_ids": [],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC3_WG1",
+      "name": "ISO/IEC JTC3/WG1",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC3",
+      "scope": "Quantum computing — foundational concepts and terminology",
+      "primary_tech_category_ids": [
+        "T02"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC3_WG2",
+      "name": "ISO/IEC JTC3/WG2",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC3",
+      "scope": "Quantum communication — QKD protocols, performance",
+      "primary_tech_category_ids": [
+        "T02",
+        "T17"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO_IEC_JTC3_WG3",
+      "name": "ISO/IEC JTC3/WG3",
+      "type": "formal",
+      "level": "tc",
+      "parent": "SB-ISO_IEC_JTC3",
+      "scope": "Quantum sensing and metrology",
+      "primary_tech_category_ids": [
+        "T02"
+      ],
+      "mention_count": 0,
+      "project_ids": [],
+      "source": "reference"
+    },
+    {
+      "id": "SB-ISO",
+      "name": "ISO",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 32,
+      "project_ids": [
+        "P-A01-p25-s2",
+        "P-A02-p34-s2",
+        "P-A04-p50-s2",
+        "P-A05-p64-s2",
+        "P-A05-p66-s3",
+        "P-A05-p70-s1",
+        "P-A05-p84-s1",
+        "P-A05-p87-s1",
+        "P-A07-p102-s1",
+        "P-A07-p103-s1",
+        "P-A07-p104-s1",
+        "P-A07-p105-s2",
+        "P-A07-p106-s3",
+        "P-A07-p107-s4",
+        "P-A07-p108-s1",
+        "P-A07-p110-s1",
+        "P-A07-p113-s1",
+        "P-A09-p127-s1",
+        "P-A09-p130-s3",
+        "P-A12-p159-s1",
+        "P-A12-p161-s1",
+        "P-A12-p162-s1",
+        "P-A15-p186-s1",
+        "P-A16-p194-s1",
+        "P-A16-p195-s2",
+        "P-A16-p197-s4"
+      ]
+    },
+    {
+      "id": "SB-IEC",
+      "name": "IEC",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 13,
+      "project_ids": [
+        "P-A01-p19-s1",
+        "P-A05-p84-s1",
+        "P-A05-p87-s1",
+        "P-A07-p102-s1",
+        "P-A07-p111-s1",
+        "P-A09-p127-s1",
+        "P-A11-p143-s2",
+        "P-A11-p146-s5",
+        "P-A12-p158-s1",
+        "P-A12-p160-s2",
+        "P-A12-p162-s1"
+      ]
+    },
+    {
+      "id": "SB-CODEX",
+      "name": "CODEX",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 3,
+      "project_ids": [
+        "P-A04-p52-s3",
+        "P-A10-p135-s1"
+      ]
+    },
+    {
+      "id": "SB-IEEE",
+      "name": "IEEE",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 3,
+      "project_ids": [
+        "P-A01-p21-s1",
+        "P-A01-p25-s2",
+        "P-A15-p186-s1"
+      ]
+    },
+    {
+      "id": "SB-ITU",
+      "name": "ITU",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 3,
+      "project_ids": [
+        "P-A01-p11-s1",
+        "P-A01-p19-s1",
+        "P-A01-p25-s2"
+      ]
+    },
+    {
+      "id": "SB-TTA",
+      "name": "TTA",
+      "type": "national",
+      "level": "org",
+      "mention_count": 3,
+      "project_ids": [
+        "P-A01-p23-s1"
+      ]
+    },
+    {
+      "id": "SB-APEC",
+      "name": "APEC",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p85-s2"
+      ]
+    },
+    {
+      "id": "SB-APEC_SCSC",
+      "name": "APEC SCSC",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p85-s2"
+      ]
+    },
+    {
+      "id": "SB-ICDM",
+      "name": "ICDM",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p62-s1",
+        "P-A05-p86-s3"
+      ]
+    },
+    {
+      "id": "SB-JEDEC",
+      "name": "JEDEC",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p62-s1",
+        "P-A05-p86-s3"
+      ]
+    },
+    {
+      "id": "SB-KOLAS",
+      "name": "KOLAS",
+      "type": "national",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A15-p186-s1"
+      ]
+    },
+    {
+      "id": "SB-OIML",
+      "name": "OIML",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p70-s1",
+        "P-A05-p74-s1"
+      ]
+    },
+    {
+      "id": "SB-SEMI",
+      "name": "SEMI",
+      "type": "consortium",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p62-s1",
+        "P-A05-p86-s3"
+      ]
+    },
+    {
+      "id": "SB-VESA",
+      "name": "VESA",
+      "type": "consortium",
+      "level": "org",
+      "mention_count": 2,
+      "project_ids": [
+        "P-A05-p62-s1",
+        "P-A05-p86-s3"
+      ]
+    },
+    {
+      "id": "SB-(사실상표준화기구 통칭)",
+      "name": "(사실상표준화기구 통칭)",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p87-s1"
+      ]
+    },
+    {
+      "id": "SB-3GPP",
+      "name": "3GPP",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A01-p19-s1"
+      ]
+    },
+    {
+      "id": "SB-ANSI",
+      "name": "ANSI",
+      "type": "national",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A15-p186-s1"
+      ]
+    },
+    {
+      "id": "SB-ASME",
+      "name": "ASME",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p62-s1"
+      ]
+    },
+    {
+      "id": "SB-IAF",
+      "name": "IAF",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p108-s1"
+      ]
+    },
+    {
+      "id": "SB-IETF",
+      "name": "IETF",
+      "type": "de_facto",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A01-p21-s1"
+      ]
+    },
+    {
+      "id": "SB-ILAC",
+      "name": "ILAC",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A07-p108-s1"
+      ]
+    },
+    {
+      "id": "SB-KATS",
+      "name": "KATS",
+      "type": "national",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A15-p186-s1"
+      ]
+    },
+    {
+      "id": "SB-NIST",
+      "name": "NIST",
+      "type": "national",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p77-s1"
+      ]
+    },
+    {
+      "id": "SB-OGC",
+      "name": "OGC",
+      "type": "consortium",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A09-p130-s3"
+      ]
+    },
+    {
+      "id": "SB-QuINSA",
+      "name": "QuINSA",
+      "type": "consortium",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A01-p19-s1"
+      ]
+    },
+    {
+      "id": "SB-TBT",
+      "name": "TBT",
+      "type": "formal",
+      "level": "org",
+      "mention_count": 1,
+      "project_ids": [
+        "P-A05-p77-s1"
+      ]
+    }
+  ]
+}
